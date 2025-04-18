@@ -18,6 +18,7 @@
     "docs": "typedoc",
     "docs-legacy": "lerna run docs-legacy",
     "prepare": "husky",
+    "prepublishOnly": "yarn build"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
