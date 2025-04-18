@@ -5,7 +5,7 @@
   "projectDocuments": [
     "guides/*.md"
   ],
-  "name": "@MisoraRyo/three-vrm",
+  "name": "@pixiv/three-vrm",
   "entryPointStrategy": "packages",
   "out": "docs",
   "includeVersion": true
