@@ -1,4 +1,5 @@
 import * as THREE from 'three/webgpu';
+import { materialReference } from 'three/nodes'; // 追加
 
 export const refColor = THREE.materialReference('color', 'color');
 export const refMap = THREE.materialReference('map', 'texture');
